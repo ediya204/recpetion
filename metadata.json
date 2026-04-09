@@ -1,0 +1,5 @@
+{
+  "name": "Fidere Pay Receipt Generator",
+  "description": "A tool to generate professional international remittance receipts for Fidere Pay.",
+  "requestFramePermissions": []
+}
